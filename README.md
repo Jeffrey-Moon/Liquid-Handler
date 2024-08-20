@@ -8,7 +8,7 @@ Although a field still in its infancy, robots, and automated devices have been a
 
 ## Construction
 
-The bill of materials and the details about the 3D print components are in the pdf [Liquid_Handler_Materials.pdf](assets/Liquid_Handler_Materials.pdf) (The bill of materials were last updated on Aug 19th, 2024 and the prices might have altered over time). The required 3D print files are located in the stl folder.
+The bill of materials and the details about the 3D print components are in the pdf [Liquid_Handler_Materials.pdf](assets/Liquid_Handler_Materials.pdf) (The bill of materials were last updated on Aug 19th, 2024 and the prices might have altered over time). Download the PDF to access the links used to buy each component. The required 3D print files are located in the stl folder.
 
 ## Running the Device
 
