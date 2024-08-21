@@ -1,6 +1,6 @@
 # Construction of a Low-cost Liquid Handling Device with 3D Printing for Polymerase Chain Reaction
 
-This repository contains the source code and instructions for constructing a low-cost automated liquid handling device designed specifically for performing Polymerase Chain Reaction (PCR) tasks. This device is ideal for underfunded laboratories looking for an affordable solution to automate repetitive pipetting tasks.
+This repository contains the source code and instructions for constructing a low-cost automated liquid handling device designed specifically for performing Polymerase Chain Reaction (PCR) tasks. This device is ideal for underfunded laboratories looking for an affordable solution to automate repetitive pipetting tasks. For a clear and concise summary about the project, please read the [Construction of a Low-cost Liquid Handling Device with 3D Printing for Polymerase Chain Reaction.pdf](assets/Construction_of_a_Low-cost_Liquid_Handling_Device_with_3D_Printing_for_Polymerase_Chain_Reaction.pdf)
 
 ## Abstract
 
